@@ -16,7 +16,7 @@ public class HashSetDemo {
         set.add("adc2");
         set.add("adc3");
         set.add("adc4");
-        set.add("adc5");
+        set.add("test");
         System.out.println("哈希值："+set.hashCode());
         Iterator it = set.iterator();
         while(it.hasNext()){
